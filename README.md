@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/asu-cis-capstone/lastcall.png?label=ready&title=Ready)](https://waffle.io/asu-cis-capstone/lastcall)
 (Drink Up)
 Our app allows Bars to send push notifications through our app to anyone utilizing the app to drive up patron traffic to the bar. 
 Also it allows the users of the app to receive notifications within a predetermined search field on any new specials going on. 
